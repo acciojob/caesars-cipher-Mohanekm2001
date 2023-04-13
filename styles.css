@@ -1,1 +1,30 @@
 /* Your CSS Code here. */
+h1 {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 1em;
+}
+
+label {
+  display: block;
+  margin-top: 1em;
+}
+
+input[type="text"] {
+  display: block;
+  margin-top: 0.5em;
+  width: 100%;
+  font-size: 1.2em;
+  padding: 0.5em;
+}
+
+button {
+  margin-top: 1em;
+  padding: 0.5em;
+  font-size: 1.2em;
+}
+
+#output {
+  margin-top: 1em;
+  background-color: #eee;
+}
